@@ -15,7 +15,7 @@ Se llama ==cuerpo== $\mathbb{F}$ (en inglés *field*) a un [[Conjunto de element
 
 A los elementos del cuerpo les llamamos ==escalares==.
 
-> [!Ejemplos]
-> Los conjuntos de números $\mathbb{Q}$, $\mathbb{R}$, $\mathbb{C}$, $\mathbb{Z}_n$ (cuando $n$ es primo) son cuerpos.
+> [!info] Ejemplos
+> Los conjuntos de números $\mathbb{Q}$, $\mathbb{R}$, $\mathbb{C}$ y $\mathbb{Z}_n$ (cuando $n$ es primo) son cuerpos.
 > 
 > Sin embargo, $\mathbb{N}$ o $\mathbb{Z}$ no lo son. En el primero no tenemos opuestos (negativos), mientras que en el segundo no existen inversos (fracciones).
