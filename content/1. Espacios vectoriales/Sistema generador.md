@@ -5,7 +5,7 @@ Diremos que un [[Conjunto de elementos|conjunto]] $B = \{v_1, . . . , v_n\}$ es 
 $$
 v = \alpha_1 \cdot v_1 + \dots + \alpha_n \cdot v_n
 $$
- con $\alpha_i \in \mathbb{F}$, es siempre un [[Sistema de ecuaciones lineales|sistema compatible]]. Esto se denota como $V = Gen⟨v1, . . . , vn⟩$.
+ con $\alpha_i \in \mathbb{F}$, es siempre un [[Sistema de ecuaciones lineales|sistema compatible]]. Esto se denota como $V = Gen⟨v_1, . . . , v_n⟩$.
 
 >[!tip] Técnica: Sistema generador $\leftrightarrow$ Ecuaciones implícitas
 >Sea $S = \text{Gen}⟨v_1, \dots, v_n⟩ \leq V$ un subespacio vectorial expresado vía un sistema generador, podemos obtener unas ecuaciones implícitas viendo cuándo

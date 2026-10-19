@@ -6,6 +6,9 @@ $$
 	S \leq V
 $$
 
+>[!example] Proposición
+>Sea $f : V \rightarrow W$ [[Aplicación lineal|lineal]] y $S \leq V$, $T \leq W$, se tiene que $f(S) \leq W$ y $f^{-1}(T) \leq V$
+
 >[!warning] Observación
 >A la hora de verificar si algo es o no un subespacio vectorial, muchas de las propiedades de la suma y producto se heredan del espacio total (asociatividad, conmutatividad...). Así que nos limitaremos a comprobar que:
 >- La suma y producto siguen siendo estables: $\alpha \cdot u, u + v \in V$.
