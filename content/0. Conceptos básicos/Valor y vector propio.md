@@ -1,5 +1,5 @@
 ---
-title: Valores y vectores propios
+title: Valor y vector propio
 ---
 Sea $f : V \rightarrow V$ una [[Aplicación lineal|aplicación lineal]] (endomorfismo) decimos que $\lambda$ es un ==valor propio== de $f$ si existe $v \neq 0$ tal que $f(v) = \lambda v$. A los vectores $v$ que cumplen esa condición se le denomina ==vectores propios== asociados al valor propio $\lambda$.
 

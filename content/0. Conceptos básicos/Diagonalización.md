@@ -4,7 +4,7 @@ title: Diagonalización
 >[!quote] Teorema del criterio de diagonalización
 >Una matriz $A \in \mathcal{M}_{n \times n}(\mathbb{F})$ o [[Aplicación lineal|aplicación]] $f$ es ==diagonalizable== cuando
 >- todas las [[Polinomio|raíces]] de $p_A(x)$ o de $p_f(x)$ están en $\mathbb{F}$.
->- en todos los [[Valores y vectores propios|valores propios]] coinciden las [[Multiplicidad y subespacio fundamental|multiplicidades algebraica y geométrica]].
+>- en todos los [[Valor y vector propio|valores propios]] coinciden las [[Multiplicidad y subespacio fundamental|multiplicidades algebraica y geométrica]].
 
 > [!info] Ejemplo
 > Sea la aplicación lineal
