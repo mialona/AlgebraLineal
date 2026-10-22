@@ -14,11 +14,11 @@ title: Diagonalización
 > a + bx + cx^2 &\rightarrow 2a + (a + 2b + c)x + (c - a)x^2
 > \end{align*}
 > $$
-> Encuentra una base $B$ donde $f$ sea diagonal.
+> Encuentra una base $\mathcal{B}$ donde $f$ sea diagonal.
 > 
 > El primer paso es encontrar la matriz asociada a $f$ en bases canónicas.
 > $$
-> A = [f]_{B_c} =
+> A = [f]_{\mathcal{B}_c} =
 > \begin{pmatrix}  
 > 2 & 0 & 0\\  
 > 1 & 2 & 1\\
@@ -47,4 +47,4 @@ title: Diagonalización
 > 0 & 0 & 2  
 > \end{pmatrix}
 > $$
-> Esto significa que la base $B$ es $\{x − x^2 , x, 1 - x^2\}$, aquella que tiene por coordenadas en $B_c$ las columnas de $P$.
+> Esto significa que la base $\mathcal{B}$ es $\{x − x^2 , x, 1 - x^2\}$, aquella que tiene por coordenadas en $\mathcal{B}_c$ las columnas de $P$.

@@ -1,7 +1,7 @@
 ---
 title: Subespacio vectorial
 ---
-Un [[Espacio vectorial|espacio vectorial]] $S$ contenido dentro de otro [[Espacio vectorial|espacio vectorial]] $V$ se llama ==subespacio vectorial== y se denota como 
+Un [[Espacio vectorial|espacio vectorial]] $S$ contenido dentro de otro espacio vectorial $V$ se llama ==subespacio vectorial== y se denota como 
 $$
 	S \leq V
 $$

@@ -1,7 +1,7 @@
-Llamamos coordenadas de $v$ en la [[Base o sistema generador minimal|base]] $\mathcal{B} = \{v_1, . . . , v_n\}$, y lo denotamos como $[v]_{\mathcal{B}}$, a la $n$-tupla de escalares $(\alpha_1, . . . , \alpha_n)$ tal que
+Llamamos ==coordenadas== de $v$ en la [[Base o sistema generador minimal|base]] $\mathcal{B} = \{v_1, . . . , v_n\}$, y lo denotamos como $[v]_{\mathcal{B}}$, a la $n$-tupla de escalares $(\alpha_1, . . . , \alpha_n)$ tal que
 $$\alpha_11 \cdot v_1 + \cdots + \alpha_n \cdot v_n = v.$$
 >[!abstract] Lema
->Sea $V$ un $\mathbb{F}$-[[Espacio vectorial|espacio vectorial]] $n$-dimensional con base $B$, la [[Aplicación y matriz coordenada|aplicación coordenada]] $c_B : V \rightarrow F^n$ tal que $c_B(v) = [v]_B$ es [[Aplicación lineal|aplicación lineal biyectiva]].
+>Sea $V$ un $\mathbb{F}$-[[Espacio vectorial|espacio vectorial]] $n$-dimensional con base $\mathcal{B}$, la [[Aplicación y matriz coordenada|aplicación coordenada]] $c_\mathcal{B} : V \rightarrow F^n$ tal que $c_\mathcal{B}(v) = [v]_\mathcal{B}$ es [[Aplicación lineal|aplicación lineal biyectiva]].
 
 > [!info] Ejemplo
 > Sea $V=\mathbb{R}^{3}$ y $\mathcal{B}_c=\{(1,0,0),(0,1,0),(0,0,1)\}$ su base canónica. Podemos escribir el vector $(1,2,3)$ como

@@ -1,7 +1,7 @@
 ---
 title: Sistema generador
 ---
-Diremos que un [[Conjunto de elementos|conjunto]] $B = \{v_1, . . . , v_n\}$ es un ==sistema generador== de $V$ si todo $v_i \in V$ y, además, todo $v \in V$ se puede expresar como una ==combinación lineal de elementos== de $B$, es decir,
+Diremos que un [[Conjunto de elementos|conjunto]] $\mathcal{B} = \{v_1, . . . , v_n\}$ es un ==sistema generador== de $V$ si todo $v_i \in V$ y, además, todo $v \in V$ se puede expresar como una ==combinación lineal de elementos== de $B$, es decir,
 $$
 v = \alpha_1 \cdot v_1 + \dots + \alpha_n \cdot v_n
 $$
