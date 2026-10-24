@@ -1,3 +1,6 @@
+---
+title: Intersección de subespacios
+---
 Dados dos [[Subespacio vectorial|subespacios]] $S$ y $T$, la ==intersección== de $S$ y $T$ se define como
 $$
 S \cap T := \{x : x \in S\text{ y } x \in T\}.

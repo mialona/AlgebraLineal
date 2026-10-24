@@ -1,3 +1,6 @@
+---
+title: Subespacios complementarios
+---
 Dados $S,T\leq V$ diremos que son ==complementarios==  si 
 $$
 V=S+T\quad\text{ y }\quad S\cap T=\{0\}.

@@ -1,3 +1,6 @@
+---
+title: Proyecciones paralelas
+---
 >[!quote] Teorema
 >Sean $S$ y $T$ dos [[Subespacio vectorial|subespacios]] [[Subespacios complementarios|complementarios]] en $V$. Dado $v\in V$, existen $s\in S$ y $t\in T$ únicos tales que $v=s+t$ y se llaman:
 >- $s$ es la ==proyección== de $v$ sobre $S$ ==paralela== a $T$,

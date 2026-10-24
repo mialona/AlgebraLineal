@@ -1,3 +1,6 @@
+---
+title: Suma directa
+---
 Sean $S_1,\dots,S_n\leq V$. Se dice que la [[Suma de subespacios|suma]] $S_1+\cdots+S_n$ es una ==suma directa== y se denota como $S_1\oplus\cdots\oplus S_n$ si las [[Proyecciones paralelas|proyecciones]] son únicas, es decir, si
 $$
 s_1+\cdots+s_n=s_1'+\cdots+s_n'
