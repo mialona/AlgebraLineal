@@ -1,5 +1,8 @@
 Llamamos ==coordenadas== de $v$ en la [[Base o sistema generador minimal|base]] $\mathcal{B} = \{v_1, . . . , v_n\}$, y lo denotamos como $[v]_{\mathcal{B}}$, a la $n$-tupla de escalares $(\alpha_1, . . . , \alpha_n)$ tal que
-$$\alpha_11 \cdot v_1 + \cdots + \alpha_n \cdot v_n = v.$$
+$$
+\alpha_11 \cdot v_1 + \cdots + \alpha_n \cdot v_n = v.
+$$
+
 >[!abstract] Lema
 >Sea $V$ un $\mathbb{F}$-[[Espacio vectorial|espacio vectorial]] $n$-dimensional con base $\mathcal{B}$, la [[Aplicación y matriz coordenada|aplicación coordenada]]
 > $c_\mathcal{B} : V \rightarrow F^n$ tal que $c_\mathcal{B}(v) = [v]_\mathcal{B}$ es una [[Aplicación lineal|aplicación lineal biyectiva]].
