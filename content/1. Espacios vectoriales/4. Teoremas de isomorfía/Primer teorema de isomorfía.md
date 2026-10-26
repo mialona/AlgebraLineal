@@ -2,7 +2,7 @@
 title: Primer teorema de isomorfía
 ---
 >[!quote] Teorema: Primer teorema de isomorfía
->Dada una [[Aplicación lineal|aplicación lineal]] $f : V \rightarrow W$ se tiene el siguiente [[Homomorfismos|isomorfismo]]
+>Dada una [[Aplicación lineal|aplicación lineal]] $f : V \rightarrow W$ se tiene el siguiente [[Aplicación lineal|isomorfismo]]
 >$$
 >\begin{align*}
 >\hat{f}: V/\text{ker }f &\rightarrow \text{Im }f\\

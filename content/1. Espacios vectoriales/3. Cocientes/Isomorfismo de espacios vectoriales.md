@@ -18,4 +18,4 @@ es un ==isomorfismo de espacios vectoriales==.
 >Al valor de $\text{dim}(V/S)$ se le llama ==codimensión== de $S$ en $V$.
 
 >[!tip] Técnica: Encontrar bases de V/S
->Todo [[Homomorfismos|isomorfismo]] lleva una [[Base o sistema generador minimal|base]] a una base. Así basta encontrar una base $\{t_1, \dots , t_n\}$ de $T$, complementario de $S$, para tener una base de $V/S$ que en este caso será $\{t_1 + S, \dots , t_n + S\}$.
+>Todo [[Aplicación lineal|isomorfismo]] lleva una [[Base o sistema generador minimal|base]] a una base. Así basta encontrar una base $\{t_1, \dots , t_n\}$ de $T$, complementario de $S$, para tener una base de $V/S$ que en este caso será $\{t_1 + S, \dots , t_n + S\}$.

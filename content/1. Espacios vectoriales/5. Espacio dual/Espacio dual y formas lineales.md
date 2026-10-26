@@ -1,5 +1,5 @@
 ---
-title: Espacio dual y formas
+title: Espacio dual y formas lineales
 ---
 Sea $V$ un [[Espacio vectorial|espacio vectorial]], definimos su ==espacio dual== como
 $$

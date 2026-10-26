@@ -7,7 +7,7 @@ $$
 
 ---
 
-Sea $\lambda$ un [[Valor y vector propio|valor propio]] del [[Homomorfismos|endomorfismo]] $f : V \rightarrow V$, llamamos ==subespacio fundamental== asociado a $\lambda$ y lo denotamos $S(\lambda)$ al [[Subespacio vectorial|subespacio]] de vectores propios asociados al valor propio $\lambda$. Así
+Sea $\lambda$ un [[Valor y vector propio|valor propio]] del [[Aplicación lineal|endomorfismo]] $f : V \rightarrow V$, llamamos ==subespacio fundamental== asociado a $\lambda$ y lo denotamos $S(\lambda)$ al [[Subespacio vectorial|subespacio]] de vectores propios asociados al valor propio $\lambda$. Así
 $$
 S(\lambda) := \text{ker}(f - \lambda Id).
 $$
