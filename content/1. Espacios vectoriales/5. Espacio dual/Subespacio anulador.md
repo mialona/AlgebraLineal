@@ -15,5 +15,5 @@ $$
 >[!quote] Teorema
 >Dados $S,T\leq V$ [[Subespacios complementarios|subespacios complementarios]] se tiene que 
 >$$
->V^*=S^\circ\oplus T^\circ$.
+>V^*=S^\circ\oplus T^\circ.
 >$$

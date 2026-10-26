@@ -1,5 +1,5 @@
 ---
-title: Evaluar y órbitas
+title: Polinomio mínimo de un vector
 ---
 Dado $v\in V$, $f\in\text{End}(V)$ y un [[Polinomio|polinomio]] $p(x)$, diremos que $v$ es ==raíz== de $p(x)$ si la [[Evaluar y órbitas|evaluación]] $p(f)(v)=0$. Definimos el ==polinomio mínimo== de $v$ (relativo a $f$) como el polinomio [[Polinomio|mónico]] de menor grado para el cual $v$ es raíz. Denotamos dicho polinomio por $p_v(x)$.
 
