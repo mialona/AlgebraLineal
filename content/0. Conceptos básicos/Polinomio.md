@@ -15,6 +15,8 @@ Llamaremos ==raíz== (o cero) de un polinomio $P(x)$ al valor $\alpha$ tal que a
 
 Además, diremos que un polinomio es ==mónico== cuando su ==coeficiente principal== (el que acompaña al término de mayor grado) es igual a $1$.
 
+Por último, un polinomio es ==irreducible== cuando no se puede descomponer en el producto de dos o más polinomios de menor grado dentro de un conjunto numérico específico.
+
 >[!warning] Observación
 > El ==polinomio de Taylor== es una aproximación polinómica de una función, $f(x)$, derivable $n$ veces en un entorno de un punto concreto $a$. Utiliza los valores de las derivadas de la función en ese punto para replicar su comportamiento local:
 > $$
