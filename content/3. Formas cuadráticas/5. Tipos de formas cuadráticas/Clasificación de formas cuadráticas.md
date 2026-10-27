@@ -15,3 +15,15 @@ Una [[Forma cuadrática|forma cuadrática]] $Q\colon V\to\mathbb{R}$ se dice
 >- semidefinida positiva si $\alpha_1,\dots,\alpha_r\geq 0$,
 >- semidefinida negativa si $\alpha_1,\dots,\alpha_r\leq 0$,
 >- indefinida si existe $\alpha_i>0$ y $\alpha_j<0$.
+
+>[!example] Proposición. Criterio de Sylvester
+>Sea $Q$ una forma cuadrática con [[Forma cuadrática|matriz de Gram]] $A$ de orden $n\times n$, definimos para $i=1,\dots, n$ las submatrices de la parte superior izquierda
+>$$
+>A_i=\begin{pmatrix}
+>\alpha_{11}\cdots&\alpha_{1i}\\
+>\vdots&\ddots&\vdots\\
+>\alpha_{i1}&\cdots&\alpha_{ii}
+>\end{pmatrix}
+>$$
+>- $Q$ es definida positiva si y solo si $\lvert A_i\rvert >0$ para $i=1,\dots,n$.
+>- $Q$ es definida negativa si y solo si $(-1)^i\lvert A_i\rvert>0$ para $i=1,\dots,n$.

@@ -5,7 +5,7 @@ Si $Q$ es una [[Forma cuadrática|forma cuadrática]] en $V$, $\mathcal{B}$ y $\
 $$
 \begin{split}
 Q(v)&=\hat{X}^tB\hat{X},\\
-Q(v)&=X^tAX=(P\hat{X})^tA(PX)=\hat{X}^tP^tAPX.
+Q(v)&=X^tAX=(P\hat{X})^tA(P\hat{X})=\hat{X}^tP^tAP\hat{X}.
 \end{split}
 $$
 Es decir, $B=P^t AP$.
