@@ -13,7 +13,8 @@ Es decir, $B=P^t AP$.
 Dos matrices $A$ y $B$ se dicen ==congruentes== is existe $P$ invertible tal que 
 $$
 B=P^t AP.
-$$Como las matrices de Gram de una forma cuadrática son todas congruentes, esto no permite definir el ==rango== de una forma cuadrática como el rango de cualquier matriz de Gram:
+$$
+Como las matrices de Gram de una forma cuadrática son todas congruentes, esto no permite definir el ==rango== de una forma cuadrática como el rango de cualquier matriz de Gram:
 $$
 \text{rang}(Q)=\text{rang}([Q]_\mathcal{B}).
 $$
