@@ -16,3 +16,10 @@ El producto escalar en $\mathbb{R}$ es una aplicación bilineal. Sin embargo, en
 
 >[!warning] Observación
 >Aunque estemos en $\mathbb{C}$ y $⟨u, v⟩ \in \mathbb{F}$, siempre se tendrá que $⟨u, u⟩ \in \mathbb{R}$.
+
+> [!info] Ejemplo. Producto escalar usual en $\mathbb{C}^n$
+> Tomando $V=\mathbb{C}^n$ y $\mathbb{F}=\mathbb{C}$ encontramos el ==producto escalar usual== de $\mathbb{C}^n$
+> $$
+> (x_1,\dots,x_n)\bullet (y_1,\dots,y_n)=x_1\overline{y_1}+\cdots+x_n\overline{y_n}.
+> $$
+

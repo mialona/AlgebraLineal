@@ -3,7 +3,7 @@ title: Matriz de Gram de una forma bilineal
 ---
 Dada una [[Forma bilineal|forma bilineal]] $f\colon V\times V\to\mathbb{F}$ y una [[Base o sistema generador minimal|base]] $\mathcal{B}=\{v_1,\dots,v_n\}$ usando la bilinealidad de $f$ tenemos que
 $$
-f(v,w)=f(x_1v_1+\cdots+x_nv_n,y_1v_1+\cdot+y_nv_n)=\sum_{i=1}^n\sum{j=1}^nx_if(v_i,v_j)y_j=(x_1,\dots,x_n)\begin{pmatrix}
+f(v,w)=f(x_1v_1+\cdots+x_nv_n,y_1v_1+\cdot+y_nv_n)=\sum_{i=1}^n\sum_{j=1}^nx_if(v_i,v_j)y_j=(x_1,\dots,x_n)\begin{pmatrix}
 f(v_1,v_1)&\cdots&f(v_1,v_n)\\
 \vdots&\ddots&\vdots\\
 f(v_n,v_1)&\cdots&f(v_n,v_n)
