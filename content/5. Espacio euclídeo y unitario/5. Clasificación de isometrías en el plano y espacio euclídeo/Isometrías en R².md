@@ -1,0 +1,12 @@
+---
+title: Isometrías en R²
+---
+>[!tip] Técnica: ¿Cómo podemos distinguir en qué caso estamos?
+>Haciendo uso de invariantes como el [[Polinomio característico|polinomio característico]], la [[Rango y traza de una matriz|traza]], el determinante, los [[Valor y vector propio|valores propios]]... Estos son independientes de la [[Base o sistema generador minimal|base]].
+
+|                                                 Forma<br>canónica                                                  |                     Interpretación<br>geométrica                      |          $p_A(x)$          | $\text{det }A$ |  $\text{tr }A$  |                                           VAP                                           |
+| :----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------------: | :------------: | :-------------: | :-------------------------------------------------------------------------------------: |
+| $\begin{pmatrix}\cos{\alpha} & -\sin{\alpha}\\ \sin{\alpha} & \cos{\alpha}\end{pmatrix}$<br>$\alpha \in (0, 2\pi)$ | Giro de ángulo $\alpha$<br>alrededor del origen<br>(sentido positivo) | $x^2 - x \text{ tr }A + 1$ |      $1$       | $2\cos{\alpha}$ | $\lambda = e^{\pm i \alpha}\notin\mathbb{R}$<br>$\lambda = \cos{\alpha}\pm\sin{\alpha}$ |
+|                             $\begin{pmatrix}1 & 0\\  0 & 1\end{pmatrix}$<br>Identidad                              |     Identidad<br>Giro de ángulo $\alpha = 0$<br>$v = \varphi(v)$      |        $(x - 1)^2$         |      $1$       |       $2$       |                                $\lambda = 1$<br>(doble)                                 |
+|                                   $\begin{pmatrix}-1 & 0\\  0 & -1\end{pmatrix}$                                   |   Giro de ángulo $\alpha = \pi$<br>Simetría respecto<br>del origen    |        $(x + 1)^2$         |      $1$       |      $-2$       |                                $\lambda = -1$<br>(doble)                                |
+|                                   $\begin{pmatrix}1 & 0\\  0 & -1\end{pmatrix}$                                    |                Simetría axial<br>respecto del eje $x$                 |         $x^2 - 1$          |      $-1$      |       $0$       |                                    $\lambda = \pm1$                                     |
