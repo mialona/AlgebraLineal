@@ -1,17 +1,9 @@
-# Quartz v5
+# AlgebraLineal - Quartz v5
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Esta es una base de conocimiento densamente interrelacionada creada mediante Quartz 5 sobre contenidos de álgebra lineal (Aplicación lineal, Espacio vectorial, Forma canónica de Jordan, etc.).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Se espera que sea una herramienta útil que facilite el estudio y haga más accesibles los contenidos desde ordenadores y dispositivos móviles para el seguimiento de la asignatura de Álgebra Lineal del primer curso del Grado en Matemáticas de la Universidad de La Rioja.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Al clicar en el gráfico que aparece en la barra lateral derecha de todas las páginas de la web, se puede observar como se encuentran interrelacionados todos los conceptos de la asignatura.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Este recurso ha sido creado como parte de un Proyecto de Innovación Docente de la Universidad de La Rioja en la convocatoria 2026-27 y se basa en los apuntes de la asignatura de Álgebra Lineal diseñados por Jorge Roldán López tomando como referencia los apuntes escritos por José María Pérez Izquierdo.
